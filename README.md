@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Aman Yadav!  
 
 ## About Me  
-- 🎓 I'm a **Second-Year Computer Science Student** passionate about coding, technology, and problem-solving.  
+- 🎓 I'm a Third-Year Computer Science Student passionate about coding, technology, and problem-solving.  
 - 💻 I enjoy working on creative projects and learning new programming skills.  
-- 🌱 Currently, I'm exploring **Python**, **Frontend Development**, and **Web Technologies**.  
+- 🌱 Currently, I'm exploring Python**, Frontend Development**, and **Web Technologies**.  
 
 ## Skills & Interests  
 - **Languages:** Python, C, C++  
